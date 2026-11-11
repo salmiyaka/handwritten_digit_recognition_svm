@@ -1,5 +1,5 @@
 
-# ✍️ HANDWRITTEN DIGIT RECOGNITION USING SVM
+#  HANDWRITTEN DIGIT RECOGNITION USING SVM
 
 ### Machine Learning Project | Python | Support Vector Machine
 
